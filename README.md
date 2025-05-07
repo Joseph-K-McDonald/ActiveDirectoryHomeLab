@@ -51,7 +51,7 @@ Configure RAS to enable NAT: <br/>
 </br>
 </br>
 Create the DHCP server: <br/>
-<img src="https://imgur.com/pGIwirk.png" height="60%" width="60%" alt="Project walk-through"/>
+<img src="https://imgur.com/pGIwirk.png" height="40%" width="40%" alt="Project walk-through"/>
 </br>
 </br>
 Configure DHCP server to add scope(this defines IP addresses for users connecting to the network), also add the IP address for the router(this should be the IP address for the internal NIC defined earlier): <br/>
