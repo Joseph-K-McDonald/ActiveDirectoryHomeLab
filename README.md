@@ -78,7 +78,7 @@ Update the domain used for the computer and login using a user created in the ea
 <img src="https://imgur.com/kcXWUJG.png" height="60%" width="60%" alt="Project walk-through"/>
 </br>
 </br>
-The login screen for the Windows 10 VM display the sign-in to MYDOMAIN correctly(use one of the generated users from earlier to login): <br/>
+The login screen for the Windows 10 VM displays the sign-in to MYDOMAIN correctly(use one of the generated users from earlier to login): <br/>
 <img src="https://imgur.com/6MYtQrI.png" height="40%" width="40%" alt="Project walk-through"/>
 </br>
 </br>
